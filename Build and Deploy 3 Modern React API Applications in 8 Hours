@@ -1,2 +1,9 @@
 https://www.youtube.com/watch?v=dyFVwXROzZk
 ===========================================
+
+Youtube clone
+-----------------
+ # create a folder named " youtube-clone "
+ # open above folder in vscode
+ # now in terminal run " npx create-react-app ./ "
+ 
